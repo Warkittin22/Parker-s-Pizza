@@ -1,0 +1,22 @@
+body {
+background-color: lightblue;
+}
+p {
+color: blue;
+}
+.meat {
+color: brown;
+}
+.veggie {
+color: green;
+}
+.cheese {
+color: yellow;
+}
+h1 {
+border: 2px solid black;
+}
+#pageTitle {
+text-align: center;
+color: blue;
+}
